@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at Pontifícia Universidade Católica do Paraná
 - 🌱 I'm currently doing the 4th semester of my Cybersecurity bachelor's degree.
-- ☁️ I’m currently learning about Cloud
+- ☁️ I’m currently learning more about Cloud
   
 
 <div align="center">
